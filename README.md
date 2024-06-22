@@ -50,7 +50,7 @@ Database Design: Utilized NoSQL (MongoDB) to design a database to collect data, 
 ## Contributors
 This project was collaboratively developed by:
 
-Hung Duong
-Fortune Ogulewe
+- **Hung Duong
+- **Fortune Ogulewe
 
 
